@@ -56,7 +56,7 @@
 
 As your app grows, you typically will have dozens of tests, and to organize and group those different tests, you often organize them into different testing suites.Ex: All the tests belonging to one feature or one component, could be grouped into one testing suite.You create a testing suite by using the word **describe** function
 
-## Setup testing with Vite
+## Setup tests with Vite
 
 Install the folowing dependencies
 `
